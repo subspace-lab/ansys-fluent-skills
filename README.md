@@ -99,4 +99,4 @@ solver.solution.run_calculation.iterate(iter_count=100)
 
 ## License
 
-MIT
+Apache 2.0
